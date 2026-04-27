@@ -3,7 +3,6 @@
 
 This is a snake game in the cli, written in python. 
 
-Play it at https://replit.com/@UniqueOstrich18/CLI-Snake
 
 ### Controls:
  - WASD to control the snake
